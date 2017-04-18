@@ -1,0 +1,110 @@
+html {
+    background: white;
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+}
+
+header {
+    background-color: #003a95;
+    font-family: verdana;
+    font-style: normal;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    height: 100%;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    width: 75%;
+    height: 100%;
+    float: left;
+    text-align: left;
+    margin: 0px;
+}
+
+ul {
+    background: #cbd286;
+    border: 0px;
+    border-color: #000000;
+    color: red;
+    text-align: left;
+    margin: 0px;
+}
+
+img {
+    background-color: #FFFFFF;
+    float: left;
+    padding: 10px;
+}
+
+.coffee {
+    background-color: #FFFFFF;
+    align-self: right;
+    padding: 10px;
+}
+
+li {
+    background: #cbd286;
+    border: 6px;
+    border-color: black;
+    text-align: left;
+    height: 30px;
+    padding: 2px;
+    text-indent:
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: verdana;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    text-align: left;
+}
+	
+
+aside {
+    background-color: #6efafe;
+    width: 25%;
+    height: 100%;
+    margin: 0px;
+    float: left;
+    text-align: left;
+}
+
+section {
+    font-family: times;
+}
+
+p {
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    color: #625757;
+    margin: 10px;
+    padding: 0px;
+    text-align: left
+}
+
+footer {
+    background-color: #003a95;
+    color: #FFFFFF;
+    clear: both;
+    text-align: left;
+    padding: 12px;
+}
