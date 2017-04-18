@@ -1,0 +1,18 @@
+h1, h2 {
+    color: #2b6011;
+}
+
+strong, em {
+    color: #f5a830;
+}
+
+form {
+    color: #80203f;
+}
+
+ul:last-child {
+    color: #f5a830;
+}
+
+td {
+    color: #742684;
