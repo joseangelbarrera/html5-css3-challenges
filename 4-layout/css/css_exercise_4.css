@@ -33,11 +33,14 @@ article {
 }
 
 ul {
-    background: #cbd286;
-    border: 0px;
-    border-color: #000000;
+    background: #000000;
+    border: 2px;    
+    border-color: #003a95;
     color: red;
     text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 2px;
     margin: 0px;
 }
 
